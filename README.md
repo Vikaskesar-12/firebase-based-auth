@@ -15,11 +15,11 @@ This is a simple task manager built with **Laravel** backend and **Firebase Auth
 
 ## 🛠 Tech Stack
 
-- Laravel 10+
+- Laravel 12
 - Firebase Auth + Firestore
 - Bootstrap 5
 - JQuery / AJAX
-- Deployed via **Railway** / **Render**
+- Deployed via **Render**
 
 ---
 
