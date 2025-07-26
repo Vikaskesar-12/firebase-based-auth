@@ -1,4 +1,4 @@
-# ✅ Laravel Firebase Task Manager App
+#  Laravel Firebase Task Manager App
 
 This is a simple task manager built with **Laravel** backend and **Firebase Authentication + Firestore** for user login and task storage.
 
